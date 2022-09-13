@@ -3,7 +3,6 @@
   "description": "Bun basic demo",
   "version": "0.1.0",
   "dependencies": {
-    "moment": "^2.24.0",
   },
   "devDependencies": {}
 }
